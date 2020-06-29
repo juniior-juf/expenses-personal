@@ -1,6 +1,6 @@
-# expenses
+# Personal Expenses 
 
-A new Flutter project.
+This is a simple application developed using Flutter framework.
 
 ## Getting Started
 
